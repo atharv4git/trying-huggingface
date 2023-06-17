@@ -1,0 +1,9 @@
+streamlit~=1.23.1
+transformers
+numpy
+pandas
+tensorflow
+torch
+requests~=2.31.0
+pillow~=9.5.0
+python-dotenv
